@@ -65,9 +65,8 @@ KVL & KCL:
 ![WhatsApp Image 2025-09-29 at 11 32 32 AM](https://github.com/user-attachments/assets/f780c6f0-91d1-4468-b210-90a6d2ee3107)
 ![WhatsApp Image 2025-09-29 at 11 32 32 AM (1)](https://github.com/user-attachments/assets/887fa184-b434-4def-8bd6-46a786f8edcd)
 ![WhatsApp Image 2025-09-29 at 11 32 33 AM](https://github.com/user-attachments/assets/3e4f1bdc-5cdc-4475-af5d-004c4b73da9f)
-![WhatsApp Image 2025-09-29 at 11 32 33 AM (1)](https://github.com/user-attachments/assets/e65c311f-5838-4bf9-b09a-9e68533d800
+![WhatsApp Image 2025-09-29 at 11 32 33 AM (1)](https://github.com/user-attachments/assets/2806d85a-0f9d-4851-8c7b-90f3f32c8ece)
 ![WhatsApp Image 2025-09-29 at 11 32 33 AM (2)](https://github.com/user-attachments/assets/77fb47ad-5b00-4142-817d-9487d50e8021)
-7)
 
 
 RESULT:
