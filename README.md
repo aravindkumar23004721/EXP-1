@@ -45,48 +45,29 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
 
-<img width="623" height="367" alt="Screenshot 2025-09-14 221123" src="https://github.com/user-attachments/assets/17440eb6-8403-4979-931b-313233b01269" />
+<img width="1482" height="933" alt="EXp-1" src="https://github.com/user-attachments/assets/136a9ba1-9946-4a3b-86a2-68d4d8402522" />
 
  
 
 
 b.  KCL:
 
-
- <img width="623" height="289" alt="Screenshot 2025-09-14 221129" src="https://github.com/user-attachments/assets/0bedeb22-f15a-493c-9b00-a1978abfdfb4" />
-
-
-Calculations:
-
-KVL & KCL:
-
-![bee1](https://github.com/user-attachments/assets/0cc88244-6b9d-46ca-9fcb-6752483a5507)
-
-![bee2](https://github.com/user-attachments/assets/872db158-04b5-47d8-b2a3-b3df3918fd24)
-
-![beee3](https://github.com/user-attachments/assets/92f634b4-66bd-44d8-a745-ecc6da0b1abe)
+<img width="1228" height="914" alt="Exp-1(ii)" src="https://github.com/user-attachments/assets/b8ef32d3-3073-4405-8cdf-b3f11f1e3e17" />
 
 
 
-Tabulation:
+Calculations and Tabulation:
 
 KVL & KCL:
 
-
-![dia1](https://github.com/user-attachments/assets/0a60c600-fd35-465f-9631-5013c6f41f9e)
-
-
-
-![dia2](https://github.com/user-attachments/assets/de6af4b8-cc92-4842-b224-07dc8122e179)
-
-
-![dia3](https://github.com/user-attachments/assets/9eb43f1f-541e-42c6-9892-a39b70333bdf)
-
- 
-
-
-
-
+![WhatsApp Image 2025-09-29 at 11 32 29 AM](https://github.com/user-attachments/assets/2d0d0ba4-a6f9-40c6-969d-241d14cc61b9)
+![WhatsApp Image 2025-09-29 at 11 32 31 AM](https://github.com/user-attachments/assets/2358f0b1-f993-4bd5-afd7-46504ddfe5b1)
+![WhatsApp Image 2025-09-29 at 11 32 32 AM](https://github.com/user-attachments/assets/f780c6f0-91d1-4468-b210-90a6d2ee3107)
+![WhatsApp Image 2025-09-29 at 11 32 32 AM (1)](https://github.com/user-attachments/assets/887fa184-b434-4def-8bd6-46a786f8edcd)
+![WhatsApp Image 2025-09-29 at 11 32 33 AM](https://github.com/user-attachments/assets/3e4f1bdc-5cdc-4475-af5d-004c4b73da9f)
+![WhatsApp Image 2025-09-29 at 11 32 33 AM (1)](https://github.com/user-attachments/assets/e65c311f-5838-4bf9-b09a-9e68533d800
+![WhatsApp Image 2025-09-29 at 11 32 33 AM (2)](https://github.com/user-attachments/assets/77fb47ad-5b00-4142-817d-9487d50e8021)
+7)
 
 
 RESULT:
